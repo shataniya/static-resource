@@ -1,0 +1,23 @@
+{
+  "name": "static-resource-plugin",
+  "version": "1.0.1",
+  "description": "This is a plugin for handling static resources via koa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shataniya/static-resource.git"
+  },
+  "keywords": [
+    "koa-static",
+    "static-resource"
+  ],
+  "author": "shataniya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shataniya/static-resource/issues"
+  },
+  "homepage": "https://github.com/shataniya/static-resource#readme"
+}
