@@ -2,7 +2,7 @@
 ##### Instructions
 ```javascript
 const koa = require("koa")
-const static = require("static-resource")
+const static = require("static-resource-plugin")
 const app = new koa()
 app.use(static())
 app.listen(3000)
